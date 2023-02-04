@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2023day1/2023day1.iml" filepath="$PROJECT_DIR$/2023day1/2023day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-git.iml" filepath="$PROJECT_DIR$/.idea/java-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBasic/javaBasic.iml" filepath="$PROJECT_DIR$/javaBasic/javaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/study02/study02.iml" filepath="$PROJECT_DIR$/study02/study02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study04/study04.iml" filepath="$PROJECT_DIR$/study04/study04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study05/study05.iml" filepath="$PROJECT_DIR$/study05/study05.iml" />
     </modules>
   </component>
 </project>
